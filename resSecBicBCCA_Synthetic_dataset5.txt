@@ -1,0 +1,10 @@
+Normal BCCA with min_cols: 9
+
+Time Performance in Calculating Normal BCCA: 0.0017
+
+
+
+ Secure BCCA with min_cols: 9
+Time Performance in Calculating Homomorphically: 161.59243
+
+
